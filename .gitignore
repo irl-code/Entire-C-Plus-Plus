@@ -3,3 +3,7 @@ Distance_2_points.exe
 gi
 *.iml
 *.exe
+*.json
+*.sln
+/*.vscode
+*.idea
