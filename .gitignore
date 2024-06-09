@@ -7,3 +7,4 @@ gi
 *.sln
 /*.vscode
 *.idea
+/*.replit
