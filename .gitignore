@@ -7,3 +7,6 @@ gi
 *.sln
 /*.vscode
 *.idea
+pointers
+.gitignore
+ClearDigits
