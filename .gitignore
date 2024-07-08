@@ -1,0 +1,16 @@
+Distance_2_points.exe
+*.xml
+gi
+*.iml
+*.exe
+*.json
+*.sln
+/*.vscode
+*.idea
+<<<<<<< HEAD
+pointers
+.gitignore
+ClearDigits
+=======
+/*.replit
+>>>>>>> 49cb18eef96b18a934452be2cabd9c375db51dcc
